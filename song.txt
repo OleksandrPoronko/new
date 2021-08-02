@@ -1,2 +1,4 @@
 git@github.com:OleksandrPoronko/new.git
 add first half of my favorite song
+
+00:43
